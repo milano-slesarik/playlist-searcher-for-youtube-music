@@ -1,0 +1,41 @@
+.search-wrapper {
+    position: relative;
+    padding: 12px 24px 20px;
+}
+
+#playlist-search-input {
+    appearance: none;
+    outline: none;
+    border: none;
+    margin: 0;
+
+    width: 100%;
+    height: 48px;
+    padding: 12px 0 12px 10px;
+    box-sizing: border-box;
+
+    font-family: inherit;
+    font-size: 16px;
+
+    background-color: transparent;
+    color: var(--yt-spec-text-primary);
+
+    border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+    transition: border-bottom-color 0.6s ease;
+}
+
+#playlist-search-input::placeholder {
+    color: var(--yt-spec-text-secondary);
+}
+
+#playlist-search-input:focus {
+    border-bottom-color: var(--yt-spec-call-to-action);
+}
+
+#no-playlists-message {
+    display: none;
+    padding: 24px;
+    text-align: center;
+    color: var(--yt-spec-text-secondary);
+    font-size: 14px;
+}

@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "YouTube Music Playlist Filter",
+  "version": "1.0.0",
+  "description": "Search in YouTube Music playlists",
+
+  "permissions": [
+    "https://music.youtube.com/*"
+  ],
+
+  "content_scripts": [
+    {
+      "matches": ["https://music.youtube.com/*"],
+      "js": ["playlist-dialog-observer.js" ,"content-script.js"],
+      "css": ["ytmps-styles.css"]
+    }
+  ]
+}
