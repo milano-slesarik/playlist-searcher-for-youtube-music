@@ -11,7 +11,7 @@
   "content_scripts": [
     {
       "matches": ["https://music.youtube.com/*"],
-      "js": ["playlist-dialog-observer.js" ,"content-script.js"],
+      "js": ["playlist-dialog-observer.js" ,"dialog.js", "sidebar.js"],
       "css": ["ytmps-styles.css"]
     }
   ]

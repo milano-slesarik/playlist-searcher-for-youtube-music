@@ -1,3 +1,5 @@
+// Manages search functionality in the "Add to playlist" dialog
+
 const initializePlaylistFilter = () => {
     const dialog = document.querySelector('ytmusic-add-to-playlist-renderer');
     if (!dialog || dialog.querySelector('#playlist-search-input')) {

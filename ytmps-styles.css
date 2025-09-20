@@ -39,3 +39,43 @@
     color: var(--yt-spec-text-secondary);
     font-size: 14px;
 }
+
+/* sidebar playlist search */
+
+.sidebar-search-wrapper {
+    position: relative;
+    padding: 8px 16px;
+}
+
+#sidebar-playlist-search-input {
+    border: none;
+    height: 40px;
+    padding: 8px 0 8px 10px;
+    box-sizing: border-box;
+
+    font-family: inherit;
+    font-size: 14px;
+
+    background-color: transparent;
+    color: var(--yt-spec-text-primary);
+
+    border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+    transition: border-bottom-color 0.6s ease;
+
+}
+
+#sidebar-playlist-search-input::placeholder {
+    color: var(--yt-spec-text-secondary);
+}
+
+#sidebar-playlist-search-input:focus {
+    border-bottom-color: var(--yt-spec-call-to-action);
+}
+
+#sidebar-no-playlists-message {
+    display: none;
+    padding: 16px;
+    text-align: center;
+    color: var(--yt-spec-text-secondary);
+    font-size: 12px;
+}
