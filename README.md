@@ -1,3 +1,7 @@
+<p>
+  <img src="src/img/logo128x128.png" alt="Extension icon" width="128"/>
+</p>
+
 # Playlist Searcher for YouTube Music
 
 **YouTube Music** is a great music streaming service, but it's missing an easy way to search through your playlists. This unofficial extension solves that problem by adding a search bar to the YouTube Music website.
@@ -6,13 +10,21 @@ You can use it to search for playlists by name in two places: the main sidebar a
 
 **NOTE:** _This is an early version of the extension and may not work as expected. The current method for monitoring page elements could be resource-intensive and will require future optimization._
 
-## Screenshots
+### Sidebar Search
+<table>
+  <tr>
+    <td valign="top"><img src="media/sidebar_search.gif" alt="Sidebar search demo" width="400"/></td>
+    <td valign="top"><img src="media/sidebar_search_screenshot.png" alt="Sidebar search screenshot" width="400"/></td>
+  </tr>
+</table>
 
-![sidebar_search.gif](media/sidebar_search.gif)
-![sidebar_search_screenshot.png](media/sidebar_search_screenshot.png)
-
-![add_to_playlist_search_screenshot.png](media/add_to_playlist_search_screenshot.png)
-![add_to_playlist_search.gif](media/add_to_playlist_search.gif)
+### "Add to Playlist" Dialog Search
+<table>
+  <tr>
+    <td valign="top"><img src="media/add_to_playlist_search.gif" alt="Add to playlist search demo" width="400"/></td>
+    <td valign="top"><img src="media/add_to_playlist_search_screenshot.png" alt="Add to playlist search screenshot" width="400"/></td>
+  </tr>
+</table>
 
 # TODO
 
