@@ -5,7 +5,7 @@
   "scripts": {
     "clean": "shx rm -rf dist release.zip",
     "build": "npm run clean && cpx \"src/**/*\" dist",
-    "package": "bestzip release.zip * --cwd dist",
+    "package": "cd dist && bestzip ../release.zip *",
     "release": "npm run build && npm run package"
   },
   "devDependencies": {
