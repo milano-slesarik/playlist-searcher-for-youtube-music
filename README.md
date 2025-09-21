@@ -8,9 +8,11 @@ You can use it to search for playlists by name in two places: the main sidebar a
 
 ## Screenshots
 
-![screenshot_1.png](screenshot_1.png)
+![sidebar_search.gif](media/sidebar_search.gif)
+![sidebar_search_screenshot.png](media/sidebar_search_screenshot.png)
 
-![screenshot_2.png](screenshot_2.png)
+![add_to_playlist_search_screenshot.png](media/add_to_playlist_search_screenshot.png)
+![add_to_playlist_search.gif](media/add_to_playlist_search.gif)
 
 # TODO
 
