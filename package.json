@@ -1,0 +1,16 @@
+{
+  "name": "playlist-searcher-for-youtube-music",
+  "version": "1.0.0",
+  "description": "YouTube Music extension to search through playlists",
+  "scripts": {
+    "clean": "shx rm -rf dist release.zip",
+    "build": "npm run clean && cpx \"src/**/*\" dist",
+    "package": "bestzip release.zip * --cwd dist",
+    "release": "npm run build && npm run package"
+  },
+  "devDependencies": {
+    "bestzip": "^2.2.1",
+    "cpx": "^1.5.0",
+    "shx": "^0.4.0"
+  }
+}
