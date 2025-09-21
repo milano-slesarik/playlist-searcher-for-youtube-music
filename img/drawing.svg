@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.2938725"
+     inkscape:cx="411.1688"
+     inkscape:cy="368.27431"
+     inkscape:window-width="2560"
+     inkscape:window-height="1363"
+     inkscape:window-x="0"
+     inkscape:window-y="180"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect6283"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <linearGradient
+       id="linearGradient4878"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#424242;stop-opacity:1;"
+         offset="0"
+         id="stop4876" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6279">
+      <circle
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.205378;stroke-dasharray:none;stroke-opacity:1"
+         id="circle6281"
+         cx="-44.013069"
+         cy="132.98378"
+         r="25.776365"
+         d="m -18.236704,132.98378 a 25.776365,25.776365 0 0 1 -25.776365,25.77637 25.776365,25.776365 0 0 1 -25.776365,-25.77637 25.776365,25.776365 0 0 1 25.776365,-25.77637 25.776365,25.776365 0 0 1 25.776365,25.77637 z" />
+      <path
+         id="lpe_path-effect6283"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.205378;stroke-dasharray:none;stroke-opacity:1"
+         class="powerclip"
+         d="M -82.272232,94.724617 H -5.7539062 V 171.24294 H -82.272232 Z m 64.035528,38.259163 a 25.776365,25.776365 0 0 0 -25.776365,-25.77637 25.776365,25.776365 0 0 0 -25.776365,25.77637 25.776365,25.776365 0 0 0 25.776365,25.77637 25.776365,25.776365 0 0 0 25.776365,-25.77637 z" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g6666"
+       transform="translate(10.695718,-18.07695)"
+       inkscape:export-filename="logo512.png"
+       inkscape:export-xdpi="195.50703"
+       inkscape:export-ydpi="195.50703">
+      <path
+         style="opacity:1;fill:#b2071d;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+         id="path7222"
+         transform="rotate(-56.504311)"
+         clip-path="url(#clipPath6279)"
+         inkscape:path-effect="#path-effect6283"
+         sodipodi:type="arc"
+         sodipodi:cx="-44.013069"
+         sodipodi:cy="132.98378"
+         sodipodi:rx="33.259163"
+         sodipodi:ry="33.259163"
+         d="m -10.753906,132.98378 a 33.259163,33.259163 0 0 1 -33.259163,33.25916 33.259163,33.259163 0 0 1 -33.259163,-33.25916 33.259163,33.259163 0 0 1 33.259163,-33.259163 33.259163,33.259163 0 0 1 33.259163,33.259163 z" />
+      <rect
+         style="font-variation-settings:normal;vector-effect:none;fill:#b2071d;fill-opacity:1;stroke:none;stroke-width:0.381866;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         id="rect7660-2"
+         width="34.315182"
+         height="6.1436543"
+         x="69.039864"
+         y="95.970505" />
+      <rect
+         style="font-variation-settings:normal;vector-effect:none;fill:#b2071d;fill-opacity:1;stroke:none;stroke-width:0.381866;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         id="rect7660-7"
+         width="34.315182"
+         height="6.1436543"
+         x="69.039864"
+         y="117.13716" />
+      <rect
+         style="opacity:1;fill:#b2071d;fill-opacity:1;stroke:none;stroke-width:0.134019;stroke-dasharray:none;stroke-opacity:1"
+         id="rect7842"
+         width="16.773882"
+         height="6.0652065"
+         x="165.41463"
+         y="21.241272"
+         transform="matrix(0.73624978,0.67670988,-0.67982862,0.73337101,0,0)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.1786px;font-family:'YouTube Sans';-inkscape-font-specification:'YouTube Sans';opacity:1;vector-effect:none;fill:#282828;fill-opacity:1;stroke:none;stroke-width:0.55089;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         x="69.402863"
+         y="113.12302"
+         id="text10108"><tspan
+           sodipodi:role="line"
+           id="tspan10106"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.1786px;font-family:'YouTube Sans';-inkscape-font-specification:'YouTube Sans';fill:#282828;fill-opacity:1;stroke-width:0.550891"
+           x="69.402863"
+           y="113.12302">YTMPS</tspan></text>
+    </g>
+  </g>
+</svg>
