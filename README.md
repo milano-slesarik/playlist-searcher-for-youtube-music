@@ -1,6 +1,6 @@
 # Playlist Searcher for YouTube Music
 
-**YouTube Music** is a great music streaming service, but it's missing an easy way to search for your playlists. This extension solves that problem by adding a search bar to YouTube Music.
+**YouTube Music** is a great music streaming service, but it's missing an easy way to search for your playlists. This unofficial extension solves that problem by adding a search bar to YouTube Music.
 
 You can use it to search for playlists by name in two places: the main sidebar and the "Add to Playlist" dialog.
 
@@ -16,3 +16,4 @@ You can use it to search for playlists by name in two places: the main sidebar a
 
 - [ ] Optimize the way elements are observed (as it might be too heavy now)
 - [ ] Add word-based search that works regardless of word order (e.g. "90s pop" will find "Pop - 90s")
+- [ ] Add magnifying glass icon to the search bar
