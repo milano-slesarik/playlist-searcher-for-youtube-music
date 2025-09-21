@@ -1,4 +1,4 @@
-# YouTube Music Playlist Searcher
+# Playlist Searcher for YouTube Music
 
 **YouTube Music** is a great music streaming service, but it's missing an easy way to search for your playlists. This extension solves that problem by adding a search bar to YouTube Music.
 

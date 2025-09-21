@@ -1,21 +1,26 @@
 {
   "manifest_version": 3,
-  "name": "YouTube Music Playlist Filter",
+  "name": "Playlist Searcher for YouTube Music",
   "version": "1.0.0",
-  "description": "Search in YouTube Music playlists",
-
+  "description": "Search for playlists in YouTube Music website by playlist name.",
   "host_permissions": [
     "https://music.youtube.com/*"
   ],
-
   "content_scripts": [
     {
-      "matches": ["https://music.youtube.com/*"],
-      "js": ["playlist-dialog-observer.js", "dialog.js", "sidebar.js"],
-      "css": ["ytmps-styles.css"]
+      "matches": [
+        "https://music.youtube.com/*"
+      ],
+      "js": [
+        "playlist-dialog-observer.js",
+        "dialog.js",
+        "sidebar.js"
+      ],
+      "css": [
+        "ytmps-styles.css"
+      ]
     }
   ],
-
   "icons": {
     "16": "img/logo16x16.png",
     "32": "img/logo32x32.png",
@@ -23,5 +28,10 @@
     "64": "img/logo64x64.png",
     "128": "img/logo128x128.png",
     "512": "img/logo512x512.png"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "playlist-searcher-for-ytm@milano-slesarik"
+    }
   }
 }
