@@ -12,6 +12,7 @@
         "https://music.youtube.com/*"
       ],
       "js": [
+        "templates.js",
         "playlist-dialog-observer.js",
         "dialog.js",
         "sidebar.js"
