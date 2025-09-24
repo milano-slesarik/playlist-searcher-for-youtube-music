@@ -17,18 +17,9 @@ function initializeSidebarPlaylistFilter() {
         return;
     }
 
-    const searchInput = document.createElement('input');
-    searchInput.type = 'text';
-    searchInput.id = 'sidebar-playlist-search-input';
-    searchInput.placeholder = 'Search playlists';
-
-    const wrapper = document.createElement('div');
-    wrapper.className = 'sidebar-search-wrapper';
-    wrapper.appendChild(searchInput);
-
-    const noResultsMessage = document.createElement('div');
-    noResultsMessage.id = 'sidebar-no-playlists-message';
-    noResultsMessage.textContent = 'No playlists found';
+    const wrapper = loadTemplate('sidebar-search-wrapper')
+    const searchInput = wrapper.querySelector('#sidebar-playlist-search-input');
+    const noResultsMessage = loadTemplate('sidebar-no-playlists-message');
 
     newPlaylistButton.insertAdjacentElement('afterend', wrapper);
     playlistsContainer.insertAdjacentElement('afterend', noResultsMessage);
