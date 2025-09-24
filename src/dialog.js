@@ -13,18 +13,9 @@ const initializePlaylistFilter = () => {
         return;
     }
 
-    const searchInput = document.createElement('input');
-    searchInput.type = 'text';
-    searchInput.id = 'playlist-search-input';
-    searchInput.placeholder = 'Search playlists';
-
-    const wrapper = document.createElement('div');
-    wrapper.className = 'search-wrapper';
-    wrapper.appendChild(searchInput);
-
-    const noResultsMessage = document.createElement('div');
-    noResultsMessage.id = 'no-playlists-message';
-    noResultsMessage.textContent = 'No playlists found';
+    const wrapper = loadTemplate('dialog-search-wrapper');
+    const searchInput = wrapper.querySelector('#playlist-search-input');
+    const noResultsMessage = loadTemplate('dialog-no-playlists-message');
 
     heading.insertAdjacentElement('afterend', wrapper);
     playlistsContainer.insertAdjacentElement('afterend', noResultsMessage);
