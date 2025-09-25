@@ -1,3 +1,7 @@
+:root {
+    --ps4ytm-secondary: rgba(154, 152, 152, 0.93);
+}
+
 .search-wrapper {
     position: relative;
     padding: 12px 24px 20px;
@@ -51,6 +55,7 @@
 #sidebar-playlist-search-input {
     border: none;
     height: 40px;
+    width: 192px;
     padding: 8px 0 8px 10px;
     box-sizing: border-box;
 
@@ -66,7 +71,9 @@
 }
 
 #sidebar-playlist-search-input::placeholder {
-    color: var(--yt-spec-text-secondary);
+    color: var(--ps4ytm-secondary);
+    font-size: 14px;
+    font-weight: 400;
 }
 
 #sidebar-playlist-search-input:focus {
@@ -81,3 +88,23 @@
     color: var(--yt-spec-text-secondary);
     font-size: 12px;
 }
+
+
+.search-icon {
+    position: absolute;
+    top: 50%;
+    left: 25px;
+    transform: translateY(-50%);
+    width: 20px;
+    height: 20px;
+    color: var(--ps4ytm-secondary);
+}
+
+
+#sidebar-playlist-search-input,
+#playlist-search-input {
+    text-indent: 35px;
+}
+
+
+
