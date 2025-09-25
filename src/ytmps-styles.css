@@ -30,6 +30,7 @@
 
 #playlist-search-input:focus {
     border-bottom-color: var(--yt-spec-call-to-action);
+    outline: none;
 }
 
 #no-playlists-message {
@@ -70,6 +71,7 @@
 
 #sidebar-playlist-search-input:focus {
     border-bottom-color: var(--yt-spec-call-to-action);
+    outline: none;
 }
 
 #sidebar-no-playlists-message {
