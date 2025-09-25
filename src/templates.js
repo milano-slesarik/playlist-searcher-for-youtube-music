@@ -1,7 +1,7 @@
 const templates = {
     'sidebar-search-wrapper': `
         <div class="sidebar-search-wrapper">
-            <input type="text" id="sidebar-playlist-search-input" placeholder="Search playlists">
+            <input type="text" id="sidebar-playlist-search-input" placeholder="Search playlists" autocomplete="off">
         </div>
     `,
     'sidebar-no-playlists-message': `
@@ -9,7 +9,7 @@ const templates = {
     `,
     'dialog-search-wrapper': `
         <div class="search-wrapper">
-            <input type="text" id="playlist-search-input" placeholder="Search playlists">
+            <input type="text" id="playlist-search-input" placeholder="Search playlists" autocomplete="off">
         </div>
     `,
     'dialog-no-playlists-message': `
