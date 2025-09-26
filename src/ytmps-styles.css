@@ -2,8 +2,7 @@
     --ps4ytm-secondary: rgba(154, 152, 152, 0.93);
 }
 
-/* todo remove search word */
-.ps4ytm-search-wrapper {
+.ps4ytm-wrapper {
     position: relative;
     padding: 8px 16px;
 }
@@ -12,8 +11,7 @@
     margin-top: 10px;
 }
 
-/* todo remove search word */
-.ps4ytm-search-input {
+.ps4ytm-input {
     border: none;
     height: 40px;
 
@@ -31,14 +29,13 @@
     transition: border-bottom-color 0.6s ease;
 }
 
-/* todo remove search word */
-.ps4ytm-search-input::placeholder {
+.ps4ytm-input::placeholder {
     color: var(--ps4ytm-secondary);
     font-size: 14px;
     font-weight: 400;
 }
 
-.ps4ytm-search-input:focus {
+.ps4ytm-input:focus {
     border-bottom-color: var(--yt-spec-call-to-action);
     outline: none;
 }
