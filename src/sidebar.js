@@ -17,7 +17,7 @@ function initializeSidebarPlaylistFilter() {
         return;
     }
 
-    const wrapper = loadTemplate('sidebar-search-wrapper')
+    const wrapper = loadTemplate('sidebarSearchWrapper')
     const searchInput = wrapper.querySelector('#sidebar-playlist-search-input');
     const noResultsMessage = loadTemplate('sidebar-no-playlists-message');
 

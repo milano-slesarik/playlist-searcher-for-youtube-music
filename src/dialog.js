@@ -13,7 +13,7 @@ const initializePlaylistFilter = () => {
         return;
     }
 
-    const wrapper = loadTemplate('dialog-search-wrapper');
+    const wrapper = loadTemplate('dialogSearchWrapper');
     const searchInput = wrapper.querySelector('#playlist-search-input');
     const noResultsMessage = loadTemplate('dialog-no-playlists-message');
 

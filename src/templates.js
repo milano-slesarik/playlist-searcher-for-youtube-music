@@ -11,7 +11,7 @@ const magGlassSvg = `
 </svg>`;
 
 const templates = {
-    'sidebar-search-wrapper': `
+    'sidebarSearchWrapper': `
         <div id="ps4ytm-sidebar-wrapper" class="sidebar-search-wrapper ps4ytm-search-wrapper">
             <span class="search-icon" aria-hidden="true">
                 ${magGlassSvg}
@@ -22,7 +22,7 @@ const templates = {
     'sidebar-no-playlists-message': `
        <div id="sidebar-no-playlists-message">No playlists found</div>
     `,
-    'dialog-search-wrapper': `
+    'dialogSearchWrapper': `
         <div id="ps4ytm-dialog-wrapper" class="dialog-search-wrapper ps4ytm-search-wrapper">
             <span class="search-icon" aria-hidden="true">
                 ${magGlassSvg}
