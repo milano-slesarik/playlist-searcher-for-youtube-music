@@ -2,83 +2,54 @@
     --ps4ytm-secondary: rgba(154, 152, 152, 0.93);
 }
 
-.search-wrapper {
-    position: relative;
-    padding: 12px 24px 20px;
-}
-
-#playlist-search-input {
-    appearance: none;
-    outline: none;
-    border: none;
-    margin: 0;
-
-    width: 100%;
-    height: 48px;
-    padding: 12px 0 12px 10px;
-    box-sizing: border-box;
-
-    font-family: inherit;
-    font-size: 16px;
-
-    background-color: transparent;
-    color: var(--yt-spec-text-primary);
-
-    border-bottom: 1px solid rgba(255, 255, 255, 0.12);
-    transition: border-bottom-color 0.6s ease;
-}
-
-#playlist-search-input::placeholder {
-    color: var(--yt-spec-text-secondary);
-}
-
-#playlist-search-input:focus {
-    border-bottom-color: var(--yt-spec-call-to-action);
-    outline: none;
-}
-
-#no-playlists-message {
-    display: none;
-    padding: 24px;
-    text-align: center;
-    color: var(--yt-spec-text-secondary);
-    font-size: 14px;
-}
-
-/* sidebar playlist search */
-
-.sidebar-search-wrapper {
+/* todo remove search word */
+.ps4ytm-search-wrapper {
     position: relative;
     padding: 8px 16px;
 }
 
-#sidebar-playlist-search-input {
+#ps4ytm-dialog-wrapper {
+    margin-top: 10px;
+}
+
+/* todo remove search word */
+.ps4ytm-search-input {
     border: none;
     height: 40px;
+
     width: 192px;
     padding: 8px 0 8px 10px;
     box-sizing: border-box;
 
     font-family: inherit;
     font-size: 14px;
-
+    text-indent: 35px;
     background-color: transparent;
     color: var(--yt-spec-text-primary);
 
     border-bottom: 1px solid rgba(255, 255, 255, 0.12);
     transition: border-bottom-color 0.6s ease;
-
 }
 
-#sidebar-playlist-search-input::placeholder {
+/* todo remove search word */
+.ps4ytm-search-input::placeholder {
     color: var(--ps4ytm-secondary);
     font-size: 14px;
     font-weight: 400;
 }
 
-#sidebar-playlist-search-input:focus {
+.ps4ytm-search-input:focus {
     border-bottom-color: var(--yt-spec-call-to-action);
     outline: none;
+}
+
+/* */
+#no-playlists-message {
+    display: none;
+    padding: 24px;
+    text-align: center;
+    color: var(--yt-spec-text-secondary);
+    font-size: 14px;
 }
 
 #sidebar-no-playlists-message {
@@ -89,22 +60,14 @@
     font-size: 12px;
 }
 
-
 .search-icon {
     position: absolute;
     top: 50%;
-    left: 25px;
+    left: 28px;
     transform: translateY(-50%);
     width: 20px;
     height: 20px;
     color: var(--ps4ytm-secondary);
 }
-
-
-#sidebar-playlist-search-input,
-#playlist-search-input {
-    text-indent: 35px;
-}
-
 
 
