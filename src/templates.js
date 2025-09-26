@@ -12,22 +12,22 @@ const magGlassSvg = `
 
 const templates = {
     'sidebarSearchWrapper': `
-        <div id="ps4ytm-sidebar-wrapper" class="ps4ytm-search-wrapper">
+        <div id="ps4ytm-sidebar-wrapper" class="ps4ytm-wrapper">
             <span class="search-icon" aria-hidden="true">
                 ${magGlassSvg}
             </span>
-            <input type="text" class="ps4ytm-search-input" id="sidebar-playlist-search-input" placeholder="Search playlists" autocomplete="off">
+            <input type="text" class="ps4ytm-input" id="sidebar-playlist-search-input" placeholder="Search playlists" autocomplete="off">
         </div>
     `,
     'sidebar-no-playlists-message': `
        <div id="sidebar-no-playlists-message">No playlists found</div>
     `,
     'dialogSearchWrapper': `
-        <div id="ps4ytm-dialog-wrapper" class="ps4ytm-search-wrapper">
+        <div id="ps4ytm-dialog-wrapper" class="ps4ytm-wrapper">
             <span class="search-icon" aria-hidden="true">
                 ${magGlassSvg}
             </span>
-            <input type="text" class="ps4ytm-search-input" id="playlist-search-input" placeholder="Search playlists" autocomplete="off">
+            <input type="text" class="ps4ytm-input" id="playlist-search-input" placeholder="Search playlists" autocomplete="off">
         </div>
     `,
     'dialog-no-playlists-message': `
