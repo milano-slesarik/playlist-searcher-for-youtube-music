@@ -1,5 +1,5 @@
 <p>
-  <img src="src/img/logo128x128.png" alt="Extension icon" width="128"/>
+  <img src="src/img/logo128x128.png" alt="Playlist Searcher for YouTube Music" width="128"/>
 </p>
 
 # Playlist Searcher for YouTube Music
@@ -10,19 +10,20 @@ You can use it to search for playlists by name in two places: the main sidebar a
 
 **NOTE:** _This is an early version of the extension and may not work as expected. The current method for monitoring page elements could be resource-intensive and will require future optimization._
 
-### Sidebar Search
+### Video
+
 <table>
   <tr>
-    <td valign="top"><img src="media/sidebar_search.gif" alt="Sidebar search demo" width="400"/></td>
-    <td valign="top"><img src="media/sidebar_search_screenshot.png" alt="Sidebar search screenshot" width="400"/></td>
+    <td><img src="media/showcase.gif" alt="Sidebar search demo" width="400"/></td>
   </tr>
 </table>
 
-### "Add to Playlist" Dialog Search
+### Screenshots
 <table>
   <tr>
-    <td valign="top"><img src="media/add_to_playlist_search.gif" alt="Add to playlist search demo" width="400"/></td>
-    <td valign="top"><img src="media/add_to_playlist_search_screenshot.png" alt="Add to playlist search screenshot" width="400"/></td>
+    <td><img src="media/screenshot_sidebar.png" alt="Search in sidebar" width="400"/></td>
+    <td><img src="media/screenshot_add_to_playlist.png" alt="Search in dialog" width="400"/></td>
+
   </tr>
 </table>
 
