@@ -10,7 +10,7 @@ You can use it to search for playlists by name in two places: the main sidebar a
 
 **NOTE:** _This is an early version of the extension and may not work as expected. The current method for monitoring page elements could be resource-intensive and will require future optimization._
 
-### Video
+## Video
 
 <table>
   <tr>
@@ -18,7 +18,7 @@ You can use it to search for playlists by name in two places: the main sidebar a
   </tr>
 </table>
 
-### Screenshots
+## Screenshots
 <table>
   <tr>
     <td><img src="media/screenshot_sidebar.png" alt="Search in sidebar" width="400"/></td>
@@ -27,7 +27,22 @@ You can use it to search for playlists by name in two places: the main sidebar a
   </tr>
 </table>
 
+## Changelog
+
+#### 1.0.0 (2025-09-21)
+
+- Initial release
+
+#### 1.1.0 (2025-09-27)
+
+- Added search icons to inputs
+- Simplified and unified HTML generation and CSS
+- Updated logo ("YTMPS" > "PSYTM")
+- Various refactorings
+- README.md updates
+
 # TODO
 
 - [ ] Optimize the way elements are observed (as it might be too heavy now)
 - [ ] Add word-based search that works regardless of word order (e.g. "90s pop" will find "Pop - 90s")
+- [ ] Edge support
