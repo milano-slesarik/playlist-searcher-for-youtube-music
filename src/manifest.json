@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Playlist Searcher for YouTube Music",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Search for playlists in YouTube Music website by playlist name.",
   "host_permissions": [
     "https://music.youtube.com/*"
