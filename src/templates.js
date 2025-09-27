@@ -36,7 +36,7 @@ const templates = {
 };
 
 const loadTemplate = (templateName) => {
-    const template = document.createElement('template');
-    template.innerHTML = templates[templateName].trim();
-    return template.content.firstElementChild;
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(templates[templateName].trim(), 'text/html');
+    return doc.body.firstElementChild;
 };
