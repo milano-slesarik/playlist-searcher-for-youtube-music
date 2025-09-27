@@ -2,13 +2,16 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="66.518326mm"
+   height="66.518326mm"
+   viewBox="0 0 66.518326 66.518326"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   sodipodi:docname="drawing.svg"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="logo128x128.png"
+   inkscape:export-xdpi="48.876755"
+   inkscape:export-ydpi="48.876755"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,15 +27,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.2938725"
-     inkscape:cx="411.1688"
-     inkscape:cy="368.27431"
+     inkscape:zoom="1.829812"
+     inkscape:cx="37.982044"
+     inkscape:cy="170.78257"
      inkscape:window-width="2560"
      inkscape:window-height="1363"
      inkscape:window-x="0"
      inkscape:window-y="180"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="g5622" />
   <defs
      id="defs2">
     <inkscape:path-effect
@@ -68,11 +71,134 @@
          class="powerclip"
          d="M -82.272232,94.724617 H -5.7539062 V 171.24294 H -82.272232 Z m 64.035528,38.259163 a 25.776365,25.776365 0 0 0 -25.776365,-25.77637 25.776365,25.776365 0 0 0 -25.776365,25.77637 25.776365,25.776365 0 0 0 25.776365,25.77637 25.776365,25.776365 0 0 0 25.776365,-25.77637 z" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6279-3">
+      <circle
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.205378;stroke-dasharray:none;stroke-opacity:1"
+         id="circle6281-6"
+         cx="-44.013069"
+         cy="132.98378"
+         r="25.776365" />
+      <path
+         id="lpe_path-effect6283-7"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.205378;stroke-dasharray:none;stroke-opacity:1"
+         class="powerclip"
+         d="M -82.272232,94.724617 H -5.7539062 V 171.24294 H -82.272232 Z m 64.035528,38.259163 a 25.776365,25.776365 0 0 0 -25.776365,-25.77637 25.776365,25.776365 0 0 0 -25.776365,25.77637 25.776365,25.776365 0 0 0 25.776365,25.77637 25.776365,25.776365 0 0 0 25.776365,-25.77637 z" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect6283-5"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect6283-5">
+      <circle
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.205378;stroke-dasharray:none;stroke-opacity:1"
+         id="circle515"
+         cx="-44.013069"
+         cy="132.98378"
+         r="25.776365"
+         d="m -18.236704,132.98378 a 25.776365,25.776365 0 0 1 -25.776365,25.77637 25.776365,25.776365 0 0 1 -25.776365,-25.77637 25.776365,25.776365 0 0 1 25.776365,-25.77637 25.776365,25.776365 0 0 1 25.776365,25.77637 z" />
+      <path
+         id="lpe_path-effect6283-5"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.205378;stroke-dasharray:none;stroke-opacity:1"
+         class="powerclip"
+         d="M -82.272232,94.724617 H -5.7539062 V 171.24294 H -82.272232 Z m 64.035528,38.259163 a 25.776365,25.776365 0 0 0 -25.776365,-25.77637 25.776365,25.776365 0 0 0 -25.776365,25.77637 25.776365,25.776365 0 0 0 25.776365,25.77637 25.776365,25.776365 0 0 0 25.776365,-25.77637 z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect6283-5-9">
+      <circle
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.205378;stroke-dasharray:none;stroke-opacity:1"
+         id="circle515-3"
+         cx="-44.013069"
+         cy="132.98378"
+         r="25.776365"
+         d="m -18.236704,132.98378 a 25.776365,25.776365 0 0 1 -25.776365,25.77637 25.776365,25.776365 0 0 1 -25.776365,-25.77637 25.776365,25.776365 0 0 1 25.776365,-25.77637 25.776365,25.776365 0 0 1 25.776365,25.77637 z" />
+      <path
+         id="lpe_path-effect6283-5-6"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.205378;stroke-dasharray:none;stroke-opacity:1"
+         class="powerclip"
+         d="M -82.272232,94.724617 H -5.7539062 V 171.24294 H -82.272232 Z m 64.035528,38.259163 a 25.776365,25.776365 0 0 0 -25.776365,-25.77637 25.776365,25.776365 0 0 0 -25.776365,25.77637 25.776365,25.776365 0 0 0 25.776365,25.77637 25.776365,25.776365 0 0 0 25.776365,-25.77637 z" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect6283-5-0"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect6283-5-0">
+      <circle
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.205378;stroke-dasharray:none;stroke-opacity:1"
+         id="circle1011"
+         cx="-44.013069"
+         cy="132.98378"
+         r="25.776365"
+         d="m -18.236704,132.98378 a 25.776365,25.776365 0 0 1 -25.776365,25.77637 25.776365,25.776365 0 0 1 -25.776365,-25.77637 25.776365,25.776365 0 0 1 25.776365,-25.77637 25.776365,25.776365 0 0 1 25.776365,25.77637 z" />
+      <path
+         id="lpe_path-effect6283-5-0"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.205378;stroke-dasharray:none;stroke-opacity:1"
+         class="powerclip"
+         d="M -82.272232,94.724617 H -5.7539062 V 171.24294 H -82.272232 Z m 64.035528,38.259163 a 25.776365,25.776365 0 0 0 -25.776365,-25.77637 25.776365,25.776365 0 0 0 -25.776365,25.77637 25.776365,25.776365 0 0 0 25.776365,25.77637 25.776365,25.776365 0 0 0 25.776365,-25.77637 z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect6283-5-2">
+      <circle
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.205378;stroke-dasharray:none;stroke-opacity:1"
+         id="circle515-0"
+         cx="-44.013069"
+         cy="132.98378"
+         r="25.776365"
+         d="m -18.236704,132.98378 a 25.776365,25.776365 0 0 1 -25.776365,25.77637 25.776365,25.776365 0 0 1 -25.776365,-25.77637 25.776365,25.776365 0 0 1 25.776365,-25.77637 25.776365,25.776365 0 0 1 25.776365,25.77637 z" />
+      <path
+         id="lpe_path-effect6283-5-2"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.205378;stroke-dasharray:none;stroke-opacity:1"
+         class="powerclip"
+         d="M -82.272232,94.724617 H -5.7539062 V 171.24294 H -82.272232 Z m 64.035528,38.259163 a 25.776365,25.776365 0 0 0 -25.776365,-25.77637 25.776365,25.776365 0 0 0 -25.776365,25.77637 25.776365,25.776365 0 0 0 25.776365,25.77637 25.776365,25.776365 0 0 0 25.776365,-25.77637 z" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect6283-5-3"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect6283-5-3">
+      <circle
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.205378;stroke-dasharray:none;stroke-opacity:1"
+         id="circle5558"
+         cx="-44.013069"
+         cy="132.98378"
+         r="25.776365"
+         d="m -18.236704,132.98378 a 25.776365,25.776365 0 0 1 -25.776365,25.77637 25.776365,25.776365 0 0 1 -25.776365,-25.77637 25.776365,25.776365 0 0 1 25.776365,-25.77637 25.776365,25.776365 0 0 1 25.776365,25.77637 z" />
+      <path
+         id="lpe_path-effect6283-5-3"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.205378;stroke-dasharray:none;stroke-opacity:1"
+         class="powerclip"
+         d="M -82.272232,94.724617 H -5.7539062 V 171.24294 H -82.272232 Z m 64.035528,38.259163 a 25.776365,25.776365 0 0 0 -25.776365,-25.77637 25.776365,25.776365 0 0 0 -25.776365,25.77637 25.776365,25.776365 0 0 0 25.776365,25.77637 25.776365,25.776365 0 0 0 25.776365,-25.77637 z" />
+    </clipPath>
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-58.329017,-144.87047)">
     <g
        id="g6666"
        transform="translate(10.695718,-18.07695)"
@@ -125,5 +251,177 @@
            x="69.402863"
            y="113.12302">YTMPS</tspan></text>
     </g>
+    <g
+       id="g5622"
+       inkscape:export-filename="logo512x512.png"
+       inkscape:export-xdpi="195.50703"
+       inkscape:export-ydpi="195.50703">
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.381865;-inkscape-stroke:none;stop-color:#000000"
+         id="path5237"
+         cx="91.703575"
+         cy="178.63512"
+         r="27.397154" />
+      <path
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+         id="path7222-5"
+         transform="rotate(-56.504311,65.794024,29.384993)"
+         clip-path="url(#clipath_lpe_path-effect6283-5)"
+         inkscape:path-effect="#path-effect6283-5"
+         sodipodi:type="arc"
+         sodipodi:cx="-44.013069"
+         sodipodi:cy="132.98378"
+         sodipodi:rx="33.259163"
+         sodipodi:ry="33.259163"
+         d="m -10.753906,132.98378 a 33.259163,33.259163 0 0 1 -33.259163,33.25916 33.259163,33.259163 0 0 1 -33.259163,-33.25916 33.259163,33.259163 0 0 1 33.259163,-33.259163 33.259163,33.259163 0 0 1 33.259163,33.259163 z" />
+      <rect
+         style="font-variation-settings:normal;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.457003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         id="rect7660-2-6"
+         width="35.624119"
+         height="8.4758577"
+         x="73.873856"
+         y="163.00227" />
+      <rect
+         style="font-variation-settings:normal;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.457003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         id="rect7660-2-6-0"
+         width="35.624119"
+         height="8.4758577"
+         x="73.873856"
+         y="184.97636" />
+      <rect
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.134019;stroke-dasharray:none;stroke-opacity:1"
+         id="rect7842-9"
+         width="16.773882"
+         height="6.0652065"
+         x="215.31912"
+         y="67.963524"
+         transform="matrix(0.73624978,0.67670988,-0.67982862,0.73337101,0,0)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.57663px;font-family:'YouTube Sans';-inkscape-font-specification:'YouTube Sans';vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.464192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         x="74.643822"
+         y="181.24329"
+         id="text10108-1"><tspan
+           sodipodi:role="line"
+           id="tspan10106-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.57663px;font-family:'YouTube Sans';-inkscape-font-specification:'YouTube Sans';fill:#1a1a1a;fill-opacity:1;stroke-width:0.464193"
+           x="74.643822"
+           y="181.24329">PS4YTM</tspan></text>
+    </g>
+    <g
+       id="g5385-7"
+       transform="translate(-128.49231,-72.950819)">
+      <circle
+         style="fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.381865;-inkscape-stroke:none;stop-color:#000000"
+         id="path5237-5"
+         cx="91.703575"
+         cy="178.63512"
+         r="27.397154" />
+      <path
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+         id="path7222-5-9"
+         transform="rotate(-56.504311,65.794024,29.384993)"
+         clip-path="url(#clipath_lpe_path-effect6283-5-3)"
+         inkscape:path-effect="#path-effect6283-5-3"
+         sodipodi:type="arc"
+         sodipodi:cx="-44.013069"
+         sodipodi:cy="132.98378"
+         sodipodi:rx="33.259163"
+         sodipodi:ry="33.259163"
+         d="m -10.753906,132.98378 a 33.259163,33.259163 0 0 1 -33.259163,33.25916 33.259163,33.259163 0 0 1 -33.259163,-33.25916 33.259163,33.259163 0 0 1 33.259163,-33.259163 33.259163,33.259163 0 0 1 33.259163,33.259163 z" />
+      <rect
+         style="font-variation-settings:normal;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.457003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         id="rect7660-2-6-22"
+         width="35.624119"
+         height="8.4758577"
+         x="73.873856"
+         y="163.00227" />
+      <rect
+         style="font-variation-settings:normal;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.457003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         id="rect7660-2-6-7-8"
+         width="35.624119"
+         height="8.4758577"
+         x="73.873856"
+         y="173.98932" />
+      <rect
+         style="font-variation-settings:normal;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.457003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         id="rect7660-2-6-0-9"
+         width="35.624119"
+         height="8.4758577"
+         x="73.873856"
+         y="184.97636" />
+      <rect
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.134019;stroke-dasharray:none;stroke-opacity:1"
+         id="rect7842-9-7"
+         width="16.773882"
+         height="6.0652065"
+         x="215.31912"
+         y="67.963524"
+         transform="matrix(0.73624978,0.67670988,-0.67982862,0.73337101,0,0)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.124px;font-family:'YouTube Sans';-inkscape-font-specification:'YouTube Sans';vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.493817;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         x="74.483719"
+         y="179.71141"
+         id="text10108-1-3"
+         transform="scale(0.99015674,1.0099411)"><tspan
+           sodipodi:role="line"
+           id="tspan10106-2-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.124px;font-family:'YouTube Sans';-inkscape-font-specification:'YouTube Sans';fill:#1a1a1a;fill-opacity:1;stroke-width:0.493817"
+           x="74.483719"
+           y="179.71141">PS4YTM</tspan></text>
+    </g>
+    <path
+       style="fill:#b2071d;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+       id="path7222-5-6"
+       transform="rotate(-56.504311,13.564914,101.51403)"
+       clip-path="url(#clipath_lpe_path-effect6283-5-0)"
+       inkscape:path-effect="#path-effect6283-5-0"
+       sodipodi:type="arc"
+       sodipodi:cx="-44.013069"
+       sodipodi:cy="132.98378"
+       sodipodi:rx="33.259163"
+       sodipodi:ry="33.259163"
+       d="m -10.753906,132.98378 a 33.259163,33.259163 0 0 1 -33.259163,33.25916 33.259163,33.259163 0 0 1 -33.259163,-33.25916 33.259163,33.259163 0 0 1 33.259163,-33.259163 33.259163,33.259163 0 0 1 33.259163,33.259163 z" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#b2071d;fill-opacity:1;stroke:none;stroke-width:0.457003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       id="rect7660-2-6-2"
+       width="35.624119"
+       height="8.4758577"
+       x="-9.6817255"
+       y="151.76987" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.457003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       id="rect7660-2-6-7-6"
+       width="35.624119"
+       height="8.4758577"
+       x="-9.6817255"
+       y="162.75691" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#b2071d;fill-opacity:1;stroke:none;stroke-width:0.457003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       id="rect7660-2-6-0-1"
+       width="35.624119"
+       height="8.4758577"
+       x="-9.6817255"
+       y="173.74396" />
+    <rect
+       style="fill:#b2071d;fill-opacity:1;stroke:none;stroke-width:0.134019;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7842-9-8"
+       width="16.773882"
+       height="6.0652065"
+       x="146.40515"
+       y="116.23699"
+       transform="matrix(0.73624978,0.67670988,-0.67982862,0.73337101,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.78295px;font-family:'YouTube Sans';-inkscape-font-specification:'YouTube Sans';vector-effect:none;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.529481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       x="-8.0131388"
+       y="170.35829"
+       id="text10108-1-7"><tspan
+         sodipodi:role="line"
+         id="tspan10106-2-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.78295px;font-family:'YouTube Sans';-inkscape-font-specification:'YouTube Sans';fill:#f2f2f2;fill-opacity:1;stroke-width:0.529482"
+         x="-8.0131388"
+         y="170.35829">YTMPS</tspan></text>
   </g>
 </svg>
