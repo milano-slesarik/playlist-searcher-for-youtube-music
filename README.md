@@ -8,6 +8,11 @@
 
 You can use it to search for playlists by name in two places: the main sidebar and the "Add to Playlist" dialog.
 
+## Installation
+
+[Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/playlist-searcher-for-yt-music/)  
+[Chrome Extension](https://chromewebstore.google.com/detail/playlist-searcher-for-you/hjjeeipclnojcnapbmpkokmhejhklflk)
+
 **NOTE:** _This is an early version of the extension and may not work as expected. The current method for monitoring page elements could be resource-intensive and will require future optimization._
 
 ## Video
@@ -46,3 +51,4 @@ You can use it to search for playlists by name in two places: the main sidebar a
 - [ ] Optimize the way elements are observed (as it might be too heavy now)
 - [ ] Add word-based search that works regardless of word order (e.g. "90s pop" will find "Pop - 90s")
 - [ ] Edge support
+- [ ] Add search on the "Playlists" page
