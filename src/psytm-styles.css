@@ -1,5 +1,6 @@
 :root {
     --ps4ytm-secondary: rgba(154, 152, 152, 0.93);
+    --ps4ytm-secondary-light: rgba(255, 255, 255, 0.87);
 }
 
 .ps4ytm-wrapper {
@@ -23,9 +24,9 @@
     font-size: 14px;
     text-indent: 35px;
     background-color: transparent;
-    color: var(--yt-spec-text-primary);
+    color: var(--ps4ytm-secondary-light);
 
-    border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+    border-bottom: 1px solid color-mix(in srgb, currentColor 20%, transparent);
     transition: border-bottom-color 0.6s ease;
 }
 
@@ -36,7 +37,7 @@
 }
 
 .ps4ytm-input:focus {
-    border-bottom-color: var(--yt-spec-call-to-action);
+    border-bottom-color: var(--ps4ytm-secondary-light);
     outline: none;
 }
 
@@ -45,7 +46,7 @@
     display: none;
     padding: 24px;
     text-align: center;
-    color: var(--yt-spec-text-secondary);
+    color: var(--ps4ytm-secondary);
     font-size: 14px;
 }
 
@@ -53,7 +54,7 @@
     display: none;
     padding: 16px;
     text-align: center;
-    color: var(--yt-spec-text-secondary);
+    color: var(--ps4ytm-secondary);
     font-size: 12px;
 }
 
