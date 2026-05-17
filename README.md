@@ -46,6 +46,10 @@ You can use it to search for playlists by name in two places: the main sidebar a
 - Various refactorings
 - README.md updates
 
+#### 1.1.1 (2026-05-17)
+
+- Fixed psytm-styles.css - undefined variables
+
 # TODO
 
 - [ ] Optimize the way elements are observed (as it might be too heavy now)
